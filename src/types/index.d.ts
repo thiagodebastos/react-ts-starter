@@ -1,0 +1,1 @@
+/* any types added here will be made globally available to TypeScript */
